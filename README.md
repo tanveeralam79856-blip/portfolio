@@ -59,24 +59,26 @@ This portfolio is built using:
 
 ## 🛠 Features
 
-- 🌌 Cosmic animated theme
-- 🎇 Glowing visual effects
-- 🪄 Scroll reveal animations
-- 🎭 Hover tilt motion
-- 🚀 Typing identity role animation
-- 🎯 Modern card design
-- 🪪 Profile section with floating glow ring
+- 🌌 Cosmic animated theme  
+- 🎇 Glowing visual effects  
+- 🪄 Scroll reveal animations  
+- 🎭 Hover tilt motion  
+- 🚀 Typing identity role animation  
+- 🎯 Modern card design  
+- 🪪 Profile section with floating glow ring  
 
 More features will be added as I grow my skills.
 
 ---
-```
+
+## 📂 Project Structure
+
+```bash
 portfolio/
 ├─ index.html
 ├─ style.css
 ├─ script.js
 └─ profile.jpg
-
 ```
 Make sure `profile.jpg` is placed in the same folder.
 
@@ -84,11 +86,11 @@ Make sure `profile.jpg` is placed in the same folder.
 
 ## 🔮 Future Improvements
 
-- ✨ More project showcases
-- 🎥 Project demos & previews
-- 📄 Resume section + download button
-- 🌠 Parallax galaxy background
-- 🧩 Interactive UI sections
+- ✨ More project showcases  
+- 🎥 Project demos & previews  
+- 📄 Resume section + download button  
+- 🌠 Parallax galaxy background  
+- 🧩 Interactive UI sections  
 
 I will keep upgrading this as I improve my skills 💪
 
@@ -105,10 +107,9 @@ If you'd like to connect:
 
 ## ⭐ Growth Philosophy
 
-> I don’t rush success —
-> I focus on building myself every day with discipline, clarity & purpose.
+> I don’t rush success — I focus on building myself every day with discipline, clarity & purpose.
 
 If you liked this portfolio, consider giving it a ⭐ on GitHub 🙂
 
-## 📂 Project Structure
+
 
