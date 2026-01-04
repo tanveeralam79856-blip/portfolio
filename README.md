@@ -70,14 +70,14 @@ This portfolio is built using:
 More features will be added as I grow my skills.
 
 ---
-
+```
 portfolio/
 ├─ index.html
 ├─ style.css
 ├─ script.js
 └─ profile.jpg
 
-
+```
 Make sure `profile.jpg` is placed in the same folder.
 
 ---
